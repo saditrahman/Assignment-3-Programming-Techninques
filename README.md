@@ -1,7 +1,7 @@
 # COSC 1284 - Programming Techniques (RMIT University) 
 ## Assignment 3 (Semester 1, 2020)
 
-### Instructions
+### Instructions (From Professor)
 Follow the instructions below to complete this assignment:
 
 1.	Download skeleton code for **Assignment 3 from Canvas**.
